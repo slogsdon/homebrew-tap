@@ -1,6 +1,6 @@
 cask "herdbot" do
-  version "0.1.1"
-  sha256 "6079e877d54ba6b4d1521a6855d3e4719bb5a48ce3a906ea8bf362061c477a99"
+  version "0.1.2"
+  sha256 "d5463bed1ff31a39df20ec5f2626165abdd91c549f2b1a05ba50961d11fc7467"
 
   url "https://github.com/slogsdon/herdbot/releases/download/v#{version}/Herdbot-#{version}.zip"
   name "Herdbot"
